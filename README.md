@@ -3,4 +3,5 @@
  - Strogonoff de frango
  - Pavê
  - Bolo de Chocolate
+ - Batata Frita
  
